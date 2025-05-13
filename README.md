@@ -33,3 +33,9 @@ Based on the WESAD dataset, the pipeline performs both **binary** (Non-stressed 
      - Leave-One-Subject-Out (LOSO-CV)
 
 ---
+## 📦 Dataset
+
+This project uses the [WESAD (Wearable Stress and Affect Detection)](https://archive.ics.uci.edu/ml/datasets/WESAD+%28Wearable+Stress+and+Affect+Detection%29) dataset, which contains multimodal physiological data (EDA, ECG, RESP, etc.) collected using the RespiBAN and Empatica E4 devices.
+
+Due to licensing and size limitations, the dataset is not included in this repository.
+
